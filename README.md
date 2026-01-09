@@ -60,7 +60,6 @@ The project demonstrates practical full-stack web development concepts and backe
 + HTML
 + CSS
 + XAMPP (Apache & MySQL)
-+ Git and GitHub
 
 ---
 
