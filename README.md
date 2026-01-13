@@ -47,7 +47,6 @@ The project demonstrates practical full-stack web development concepts and backe
 + MySQL database integration
 + Session and state management
 + Form handling and validation
-+ CRUD operations
 + Secure authentication flow
 + Backend–frontend integration
 
