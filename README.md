@@ -20,7 +20,7 @@
 
 ## Project Overview
 
-Campus Bazaar is a campus-focused marketplace web application developed using PHP and MySQL. It enables students to buy and sell items securely through features such as user authentication, product listings, cart management, and wallet-based payments.
+Campus Bazaar is a campus-focused marketplace web application developed using PHP and MySQL. It enables students to buy and sell items securely through features such as user authentication, product listings, cart management, and wallet-based payments
 
 The project demonstrates practical full-stack web development concepts and backend system design using XAMPP.
 
