@@ -451,4 +451,5 @@ footer {
     </div>
 </div>
 
+
 <footer>&copy; 2025 Campus Bazaar</footer>
