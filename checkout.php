@@ -241,7 +241,7 @@ footer {
             while($row = $items->fetch_assoc()){
                 $subtotal = $row['price'] * $row['quantity'];
                 $total += $subtotal;
-                if($row['stock'] < $row['quantity']) $can_checkout = false;
+                if($row['stock'] < $row['quantity']) $can_checkout = false
                 $cart_items[] = $row;
 
                 echo "<div class='card'>
