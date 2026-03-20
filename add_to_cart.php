@@ -95,7 +95,7 @@ try {
         $insert_stmt->close();
     }
     
-    $check_cart->close();
+    $check_cart->close()
 
     
     $conn->commit();
