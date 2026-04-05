@@ -211,7 +211,7 @@ footer {
 }
 </style>
 
-<body>
+<body
 
 <div class="glow"></div>
 <div class="glow"></div>
